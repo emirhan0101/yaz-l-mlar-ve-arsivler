@@ -1,1 +1,1 @@
-# yaz-l-mlar-ve-arsivler
+# yazılımlar ve arsıvler
